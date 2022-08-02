@@ -9,7 +9,7 @@ Inspired from LinkedIn designs
 To contribute to this repo,
 
 - Clone the project
-- Checkout to your empty project branch `git checkout -b empty_project`
+- Checkout to your empty project branch `git checkout -b new_project`
 - Make sure the branch name follows the name of the designer ex: 'oseni_abiodun_design'
 - Build your UI
 - Create your mockups
