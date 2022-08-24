@@ -11,6 +11,7 @@ environment:
   sdk: ">=2.16.2 <3.0.0"
 dependencies:
   cupertino_icons: ^1.0.2
+  eva_icons_flutter: ^3.1.0
   flutter:
     sdk: flutter
   flutter_screenutil: ^5.5.3+2
